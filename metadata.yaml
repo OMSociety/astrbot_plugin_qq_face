@@ -1,0 +1,7 @@
+name: qq_face
+display_name: QQ 大黄脸
+short_desc: 自然理解并发送 QQ 原生表情
+desc: 为 OneBot QQ 协议端提供入站表情理解、内联标记发送、动态目录和动态贴纸拆条。
+version: 1.0.0
+author: OMSociety
+repo: https://github.com/OMSociety/astrbot_plugin_qq_face

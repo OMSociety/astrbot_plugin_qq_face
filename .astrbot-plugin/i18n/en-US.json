@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "display_name": "QQ Yellow Faces",
+    "short_desc": "Read and send native QQ faces naturally",
+    "desc": "Provides inbound face understanding, inline-marker sending, dynamic catalogs, and animated-sticker splitting for OneBot QQ endpoints."
+  },
+  "config": {
+    "enable_inbound": {
+      "description": "Understand incoming QQ faces",
+      "hint": "Annotates Face components as [QQ face:name] in their original positions. Annotations apply only to model-visible text while the actual message chain stays intact."
+    },
+    "platform_overrides": {
+      "description": "Platform instance overrides as a JSON object",
+      "hint": "Keys are platform instance IDs shown by /face status; values are auto, enabled, or disabled, for example {\"qq-main\": \"enabled\"}. This workflow handles OneBot QQ platform instances."
+    },
+    "face_aliases": {
+      "description": "Custom face aliases as a JSON object",
+      "hint": "Keys are aliases; values are canonical catalog names or numeric IDs, for example {\"grin\": \"smirk\"}."
+    },
+    "prompt_face_names": {
+      "description": "Faces recommended to the model",
+      "hint": "Enter names or aliases from the active catalog."
+    }
+  }
+}

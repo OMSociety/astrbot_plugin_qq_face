@@ -1,0 +1,26 @@
+{
+  "enable_inbound": {
+    "description": "理解收到的 QQ 表情",
+    "type": "bool",
+    "default": true,
+    "hint": "按消息原有位置把 Face 标注为 [QQ表情:名字]，标注仅作用于模型可见文本，实际消息链保持原样。"
+  },
+  "platform_overrides": {
+    "description": "平台实例覆盖（JSON 对象）",
+    "type": "text",
+    "default": "",
+    "hint": "键为 /face status 显示的平台实例 ID，值为 auto、enabled 或 disabled，例如 {\"qq-main\": \"enabled\"}。该流程仅处理 OneBot QQ 平台实例。"
+  },
+  "face_aliases": {
+    "description": "自定义表情别名（JSON 对象）",
+    "type": "text",
+    "default": "",
+    "hint": "键为别名，值为目录中的规范名字或数字 ID，例如 {\"坏笑\": \"斜眼笑\"}。"
+  },
+  "prompt_face_names": {
+    "description": "向模型推荐的表情",
+    "type": "list",
+    "default": ["呲牙", "微笑", "笑哭", "斜眼笑", "捂脸", "害羞", "可怜", "点赞", "菜汪", "打call", "拥抱", "送花"],
+    "hint": "只填写当前目录中存在的名字或别名。"
+  }
+}

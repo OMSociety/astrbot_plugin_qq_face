@@ -1,0 +1,2426 @@
+{
+  "schema_version": 1,
+  "faces": [
+    {
+      "id": 0,
+      "name": "/惊讶",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/0_base_1712825561.zip"
+    },
+    {
+      "id": 1,
+      "name": "/撇嘴",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/1_base_1712825561.zip"
+    },
+    {
+      "id": 2,
+      "name": "/色",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/2_base_1712825561.zip"
+    },
+    {
+      "id": 3,
+      "name": "/发呆",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/3_base_1712825561.zip"
+    },
+    {
+      "id": 4,
+      "name": "/得意",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/4_base_1712825561.zip"
+    },
+    {
+      "id": 5,
+      "name": "/流泪",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/5_base_1712825561.zip"
+    },
+    {
+      "id": 6,
+      "name": "/害羞",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/6_base_1712825561.zip"
+    },
+    {
+      "id": 7,
+      "name": "/闭嘴",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/7_base_1712825561.zip"
+    },
+    {
+      "id": 8,
+      "name": "/睡",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/8_base_1712825561.zip"
+    },
+    {
+      "id": 9,
+      "name": "/大哭",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/9_base_1712825561.zip"
+    },
+    {
+      "id": 10,
+      "name": "/尴尬",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/10_base_1712825561.zip"
+    },
+    {
+      "id": 11,
+      "name": "/发怒",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/11_base_1712825561.zip"
+    },
+    {
+      "id": 12,
+      "name": "/调皮",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/12_base_1712825561.zip"
+    },
+    {
+      "id": 13,
+      "name": "/呲牙",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/13_base_1712825561.zip"
+    },
+    {
+      "id": 14,
+      "name": "/微笑",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/14_base_1712825561.zip"
+    },
+    {
+      "id": 15,
+      "name": "/难过",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/15_base_1712825561.zip"
+    },
+    {
+      "id": 16,
+      "name": "/酷",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/16_base_1712825561.zip"
+    },
+    {
+      "id": 18,
+      "name": "/抓狂",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/18_base_1712825561.zip"
+    },
+    {
+      "id": 19,
+      "name": "/吐",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/19_base_1712825561.zip"
+    },
+    {
+      "id": 20,
+      "name": "/偷笑",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/20_base_1712825561.zip"
+    },
+    {
+      "id": 21,
+      "name": "/可爱",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/21_base_1712825561.zip"
+    },
+    {
+      "id": 22,
+      "name": "/白眼",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/22_base_1712825561.zip"
+    },
+    {
+      "id": 23,
+      "name": "/傲慢",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/23_base_1712825561.zip"
+    },
+    {
+      "id": 24,
+      "name": "/饥饿",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/24_base_1712825561.zip"
+    },
+    {
+      "id": 25,
+      "name": "/困",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/25_base_1712825561.zip"
+    },
+    {
+      "id": 26,
+      "name": "/惊恐",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/26_base_1712825561.zip"
+    },
+    {
+      "id": 27,
+      "name": "/流汗",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/27_base_1712825561.zip"
+    },
+    {
+      "id": 28,
+      "name": "/憨笑",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/28_base_1712825561.zip"
+    },
+    {
+      "id": 29,
+      "name": "/悠闲",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/29_base_1712825561.zip"
+    },
+    {
+      "id": 30,
+      "name": "/奋斗",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/30_base_1712825561.zip"
+    },
+    {
+      "id": 31,
+      "name": "/咒骂",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/31_base_1712825561.zip"
+    },
+    {
+      "id": 32,
+      "name": "/疑问",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/32_base_1712825561.zip"
+    },
+    {
+      "id": 33,
+      "name": "/嘘",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/33_base_1712825561.zip"
+    },
+    {
+      "id": 34,
+      "name": "/晕",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/34_base_1712825561.zip"
+    },
+    {
+      "id": 35,
+      "name": "/折磨",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/35_base_1712825561.zip"
+    },
+    {
+      "id": 36,
+      "name": "/衰",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/36_base_1712825561.zip"
+    },
+    {
+      "id": 37,
+      "name": "/骷髅",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/37_base_1712825561.zip"
+    },
+    {
+      "id": 38,
+      "name": "/敲打",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/38_base_1712825561.zip"
+    },
+    {
+      "id": 39,
+      "name": "/再见",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/39_base_1712825561.zip"
+    },
+    {
+      "id": 41,
+      "name": "/发抖",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/41_base_1712825561.zip"
+    },
+    {
+      "id": 42,
+      "name": "/爱情",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/42_base_1712825561.zip"
+    },
+    {
+      "id": 43,
+      "name": "/跳跳",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/43_base_1712825561.zip"
+    },
+    {
+      "id": 46,
+      "name": "/猪头",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/46_base_1712825561.zip"
+    },
+    {
+      "id": 49,
+      "name": "/拥抱",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/49_base_1712825561.zip"
+    },
+    {
+      "id": 53,
+      "name": "/蛋糕",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/53_base_1712825561.zip"
+    },
+    {
+      "id": 56,
+      "name": "/刀",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/56_base_1712825561.zip"
+    },
+    {
+      "id": 59,
+      "name": "/便便",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/59_base_1712825561.zip"
+    },
+    {
+      "id": 60,
+      "name": "/咖啡",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/60_base_1712825561.zip"
+    },
+    {
+      "id": 63,
+      "name": "/玫瑰",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/63_base_1712825561.zip"
+    },
+    {
+      "id": 64,
+      "name": "/凋谢",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/64_base_1712825561.zip"
+    },
+    {
+      "id": 66,
+      "name": "/爱心",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/66_base_1712825561.zip"
+    },
+    {
+      "id": 67,
+      "name": "/心碎",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/67_base_1712825561.zip"
+    },
+    {
+      "id": 74,
+      "name": "/太阳",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/74_base_1712825561.zip"
+    },
+    {
+      "id": 75,
+      "name": "/月亮",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/75_base_1712825561.zip"
+    },
+    {
+      "id": 76,
+      "name": "/赞",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/76_base_1712825561.zip"
+    },
+    {
+      "id": 77,
+      "name": "/踩",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/77_base_1712825561.zip"
+    },
+    {
+      "id": 78,
+      "name": "/握手",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/78_base_1712825561.zip"
+    },
+    {
+      "id": 79,
+      "name": "/胜利",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/79_base_1712825561.zip"
+    },
+    {
+      "id": 85,
+      "name": "/飞吻",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/85_base_1712825561.zip"
+    },
+    {
+      "id": 86,
+      "name": "/怄火",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/86_base_1712825561.zip"
+    },
+    {
+      "id": 89,
+      "name": "/西瓜",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/89_base_1712825561.zip"
+    },
+    {
+      "id": 96,
+      "name": "/冷汗",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/96_base_1712825561.zip"
+    },
+    {
+      "id": 97,
+      "name": "/擦汗",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/97_base_1712825561.zip"
+    },
+    {
+      "id": 98,
+      "name": "/抠鼻",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/98_base_1712825561.zip"
+    },
+    {
+      "id": 99,
+      "name": "/鼓掌",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/99_base_1712825561.zip"
+    },
+    {
+      "id": 100,
+      "name": "/糗大了",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/100_base_1712825561.zip"
+    },
+    {
+      "id": 101,
+      "name": "/坏笑",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/101_base_1712825561.zip"
+    },
+    {
+      "id": 102,
+      "name": "/左哼哼",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/102_base_1712825561.zip"
+    },
+    {
+      "id": 103,
+      "name": "/右哼哼",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/103_base_1712825561.zip"
+    },
+    {
+      "id": 104,
+      "name": "/哈欠",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/104_base_1712825561.zip"
+    },
+    {
+      "id": 105,
+      "name": "/鄙视",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/105_base_1712825561.zip"
+    },
+    {
+      "id": 106,
+      "name": "/委屈",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/106_base_1712825561.zip"
+    },
+    {
+      "id": 107,
+      "name": "/快哭了",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/107_base_1712825561.zip"
+    },
+    {
+      "id": 108,
+      "name": "/阴险",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/108_base_1712825561.zip"
+    },
+    {
+      "id": 109,
+      "name": "/左亲亲",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/109_base_1712825561.zip"
+    },
+    {
+      "id": 110,
+      "name": "/吓",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/110_base_1712825561.zip"
+    },
+    {
+      "id": 111,
+      "name": "/可怜",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/111_base_1712825561.zip"
+    },
+    {
+      "id": 112,
+      "name": "/菜刀",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/112_base_1712825561.zip"
+    },
+    {
+      "id": 114,
+      "name": "/篮球",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 2,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/114_base_1712825561.zip"
+    },
+    {
+      "id": 116,
+      "name": "/示爱",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/116_base_1712825561.zip"
+    },
+    {
+      "id": 118,
+      "name": "/抱拳",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/118_base_1712825561.zip"
+    },
+    {
+      "id": 119,
+      "name": "/勾引",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/119_base_1712825561.zip"
+    },
+    {
+      "id": 120,
+      "name": "/拳头",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/120_base_1712825561.zip"
+    },
+    {
+      "id": 121,
+      "name": "/差劲",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/121_base_1712825561.zip"
+    },
+    {
+      "id": 123,
+      "name": "/NO",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/123_base_1712825561.zip"
+    },
+    {
+      "id": 124,
+      "name": "/OK",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/124_base_1712825561.zip"
+    },
+    {
+      "id": 125,
+      "name": "/转圈",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/125_base_1712825561.zip"
+    },
+    {
+      "id": 129,
+      "name": "/挥手",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/129_base_1712825561.zip"
+    },
+    {
+      "id": 137,
+      "name": "/鞭炮",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/137_base_1712825561.zip"
+    },
+    {
+      "id": 144,
+      "name": "/喝彩",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/144_base_1712825561.zip"
+    },
+    {
+      "id": 146,
+      "name": "/爆筋",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/146_base_1712825561.zip"
+    },
+    {
+      "id": 147,
+      "name": "/棒棒糖",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/147_base_1712825561.zip"
+    },
+    {
+      "id": 169,
+      "name": "/手枪",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/169_base_1712825561.zip"
+    },
+    {
+      "id": 171,
+      "name": "/茶",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/171_base_1712825561.zip"
+    },
+    {
+      "id": 172,
+      "name": "/眨眼睛",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/172_base_1712825561.zip"
+    },
+    {
+      "id": 173,
+      "name": "/泪奔",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/173_base_1712825561.zip"
+    },
+    {
+      "id": 174,
+      "name": "/无奈",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/174_base_1712825561.zip"
+    },
+    {
+      "id": 175,
+      "name": "/卖萌",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/175_base_1712825561.zip"
+    },
+    {
+      "id": 176,
+      "name": "/小纠结",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/176_base_1712825561.zip"
+    },
+    {
+      "id": 177,
+      "name": "/喷血",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/177_base_1712825561.zip"
+    },
+    {
+      "id": 178,
+      "name": "/斜眼笑",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/178_base_1712825561.zip"
+    },
+    {
+      "id": 179,
+      "name": "/doge",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/179_base_1712825561.zip"
+    },
+    {
+      "id": 181,
+      "name": "/戳一戳",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/181_base_1712825561.zip"
+    },
+    {
+      "id": 182,
+      "name": "/笑哭",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/182_base_1712825561.zip"
+    },
+    {
+      "id": 183,
+      "name": "/我最美",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/183_base_1712825561.zip"
+    },
+    {
+      "id": 185,
+      "name": "/羊驼",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/185_base_1712825561.zip"
+    },
+    {
+      "id": 187,
+      "name": "/幽灵",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/187_base_1712825561.zip"
+    },
+    {
+      "id": 201,
+      "name": "/点赞",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/201_base_1712825561.zip"
+    },
+    {
+      "id": 212,
+      "name": "/托腮",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/212_base_1712825561.zip"
+    },
+    {
+      "id": 262,
+      "name": "/脑阔疼",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/262_base_1712825561.zip"
+    },
+    {
+      "id": 263,
+      "name": "/沧桑",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/263_base_1712825561.zip"
+    },
+    {
+      "id": 264,
+      "name": "/捂脸",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/264_base_1712825561.zip"
+    },
+    {
+      "id": 265,
+      "name": "/辣眼睛",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/265_base_1712825561.zip"
+    },
+    {
+      "id": 266,
+      "name": "/哦哟",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/266_base_1712825561.zip"
+    },
+    {
+      "id": 267,
+      "name": "/头秃",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/267_base_1712825561.zip"
+    },
+    {
+      "id": 268,
+      "name": "/问号脸",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/268_base_1712825561.zip"
+    },
+    {
+      "id": 269,
+      "name": "/暗中观察",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/269_base_1712825561.zip"
+    },
+    {
+      "id": 270,
+      "name": "/emm",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/270_base_1712825561.zip"
+    },
+    {
+      "id": 271,
+      "name": "/吃瓜",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/271_base_1712825561.zip"
+    },
+    {
+      "id": 272,
+      "name": "/呵呵哒",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/272_base_1712825561.zip"
+    },
+    {
+      "id": 273,
+      "name": "/我酸了",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/273_base_1712825561.zip"
+    },
+    {
+      "id": 277,
+      "name": "/汪汪",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/277_base_1712825561.zip"
+    },
+    {
+      "id": 281,
+      "name": "/无眼笑",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/281_base_1712825561.zip"
+    },
+    {
+      "id": 282,
+      "name": "/敬礼",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/282_base_1712825561.zip"
+    },
+    {
+      "id": 283,
+      "name": "/狂笑",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/283_base_1712825561.zip"
+    },
+    {
+      "id": 284,
+      "name": "/面无表情",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/284_base_1712825561.zip"
+    },
+    {
+      "id": 285,
+      "name": "/摸鱼",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/285_base_1712825561.zip"
+    },
+    {
+      "id": 286,
+      "name": "/魔鬼笑",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/286_base_1712825561.zip"
+    },
+    {
+      "id": 287,
+      "name": "/哦",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/287_base_1712825561.zip"
+    },
+    {
+      "id": 289,
+      "name": "/睁眼",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/289_base_1712825561.zip"
+    },
+    {
+      "id": 293,
+      "name": "/摸锦鲤",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/293_base_1712825561.zip"
+    },
+    {
+      "id": 294,
+      "name": "/期待",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/294_base_1712825561.zip"
+    },
+    {
+      "id": 295,
+      "name": "/拿到红包",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/295_base_1712825561.zip"
+    },
+    {
+      "id": 297,
+      "name": "/拜谢",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/297_base_1712825561.zip"
+    },
+    {
+      "id": 298,
+      "name": "/元宝",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/298_base_1712825561.zip"
+    },
+    {
+      "id": 299,
+      "name": "/牛啊",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/299_base_1712825561.zip"
+    },
+    {
+      "id": 300,
+      "name": "/胖三斤",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/300_base_1712825561.zip"
+    },
+    {
+      "id": 302,
+      "name": "/左拜年",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/302_base_1712825561.zip"
+    },
+    {
+      "id": 303,
+      "name": "/右拜年",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/303_base_1712825561.zip"
+    },
+    {
+      "id": 305,
+      "name": "/右亲亲",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/305_base_1712825561.zip"
+    },
+    {
+      "id": 306,
+      "name": "/牛气冲天",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/306_base_1712825561.zip"
+    },
+    {
+      "id": 307,
+      "name": "/喵喵",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/307_base_1712825561.zip"
+    },
+    {
+      "id": 311,
+      "name": "/打call",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/311_base_1712825561.zip"
+    },
+    {
+      "id": 312,
+      "name": "/变形",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/312_base_1712825561.zip"
+    },
+    {
+      "id": 314,
+      "name": "/仔细分析",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/314_base_1712825561.zip"
+    },
+    {
+      "id": 317,
+      "name": "/菜汪",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/317_base_1712825561.zip"
+    },
+    {
+      "id": 318,
+      "name": "/崇拜",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/318_base_1712825561.zip"
+    },
+    {
+      "id": 319,
+      "name": "/比心",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/319_base_1712825561.zip"
+    },
+    {
+      "id": 320,
+      "name": "/庆祝",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/320_base_1712825561.zip"
+    },
+    {
+      "id": 323,
+      "name": "/嫌弃",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/323_base_1712825561.zip"
+    },
+    {
+      "id": 324,
+      "name": "/吃糖",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/324_base_1712825561.zip"
+    },
+    {
+      "id": 325,
+      "name": "/惊吓",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/325_base_1712825561.zip"
+    },
+    {
+      "id": 326,
+      "name": "/生气",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/326_base_1712825561.zip"
+    },
+    {
+      "id": 332,
+      "name": "/举牌牌",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/332_base_1766043611.zip"
+    },
+    {
+      "id": 333,
+      "name": "/烟花",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/333_base_1712825561.zip"
+    },
+    {
+      "id": 334,
+      "name": "/虎虎生威",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/334_base_1712825561.zip"
+    },
+    {
+      "id": 336,
+      "name": "/豹富",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/336_base_1712825561.zip"
+    },
+    {
+      "id": 337,
+      "name": "/花朵脸",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/337_base_1712825561.zip"
+    },
+    {
+      "id": 338,
+      "name": "/我想开了",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/338_base_1712825561.zip"
+    },
+    {
+      "id": 339,
+      "name": "/舔屏",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/339_base_1712825561.zip"
+    },
+    {
+      "id": 341,
+      "name": "/打招呼",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/341_base_1712825561.zip"
+    },
+    {
+      "id": 342,
+      "name": "/酸Q",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/342_base_1712825561.zip"
+    },
+    {
+      "id": 343,
+      "name": "/我方了",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/343_base_1712825561.zip"
+    },
+    {
+      "id": 344,
+      "name": "/大怨种",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/344_base_1755499209.zip"
+    },
+    {
+      "id": 345,
+      "name": "/红包多多",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/345_base_1712825561.zip"
+    },
+    {
+      "id": 346,
+      "name": "/你真棒棒",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/346_base_1712825561.zip"
+    },
+    {
+      "id": 347,
+      "name": "/大展宏兔",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/347_base_1712825561.zip"
+    },
+    {
+      "id": 349,
+      "name": "/坚强",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/349_base_1712825561.zip"
+    },
+    {
+      "id": 350,
+      "name": "/贴贴",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/350_base_1712825561.zip"
+    },
+    {
+      "id": 351,
+      "name": "/敲敲",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/351_base_1712825561.zip"
+    },
+    {
+      "id": 352,
+      "name": "/咦",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/352_base_1712825561.zip"
+    },
+    {
+      "id": 353,
+      "name": "/拜托",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/353_base_1712825561.zip"
+    },
+    {
+      "id": 354,
+      "name": "/尊嘟假嘟",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/354_base_1712825561.zip"
+    },
+    {
+      "id": 355,
+      "name": "/耶",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/355_base_1712825561.zip"
+    },
+    {
+      "id": 356,
+      "name": "/666",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/356_base_1712825561.zip"
+    },
+    {
+      "id": 357,
+      "name": "/裂开",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/357_base_1712825561.zip"
+    },
+    {
+      "id": 358,
+      "name": "/骰子",
+      "aliases": [
+        "骰子"
+      ],
+      "pack": "MagicFace",
+      "animation_type": 2,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/358_base_1712825561.zip"
+    },
+    {
+      "id": 359,
+      "name": "/包剪锤",
+      "aliases": [
+        "包剪锤"
+      ],
+      "pack": "MagicFace",
+      "animation_type": 2,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/359_base_1712825561.zip"
+    },
+    {
+      "id": 360,
+      "name": "/亲亲",
+      "aliases": [],
+      "pack": "汪汪",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/360_base_1712825561.zip"
+    },
+    {
+      "id": 361,
+      "name": "/狗狗笑哭",
+      "aliases": [],
+      "pack": "汪汪",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/361_base_1712825561.zip"
+    },
+    {
+      "id": 362,
+      "name": "/好兄弟",
+      "aliases": [],
+      "pack": "汪汪",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/362_base_1712825561.zip"
+    },
+    {
+      "id": 363,
+      "name": "/狗狗可怜",
+      "aliases": [],
+      "pack": "汪汪",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/363_base_1712825561.zip"
+    },
+    {
+      "id": 364,
+      "name": "/超级赞",
+      "aliases": [],
+      "pack": "汪汪",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/364_base_1712825561.zip"
+    },
+    {
+      "id": 365,
+      "name": "/狗狗生气",
+      "aliases": [],
+      "pack": "汪汪",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/365_base_1712825561.zip"
+    },
+    {
+      "id": 366,
+      "name": "/芒狗",
+      "aliases": [],
+      "pack": "汪汪",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/366_base_1712825561.zip"
+    },
+    {
+      "id": 367,
+      "name": "/狗狗疑问",
+      "aliases": [],
+      "pack": "汪汪",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/367_base_1712825561.zip"
+    },
+    {
+      "id": 368,
+      "name": "/奥特笑哭",
+      "aliases": [],
+      "pack": "噗噗星人",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/368_base_1712825561.zip"
+    },
+    {
+      "id": 369,
+      "name": "/彩虹",
+      "aliases": [],
+      "pack": "噗噗星人",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/369_base_1712825561.zip"
+    },
+    {
+      "id": 370,
+      "name": "/祝贺",
+      "aliases": [],
+      "pack": "噗噗星人",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/370_base_1712825561.zip"
+    },
+    {
+      "id": 371,
+      "name": "/冒泡",
+      "aliases": [],
+      "pack": "噗噗星人",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/371_base_1712825561.zip"
+    },
+    {
+      "id": 372,
+      "name": "/气呼呼",
+      "aliases": [],
+      "pack": "噗噗星人",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/372_base_1712825561.zip"
+    },
+    {
+      "id": 373,
+      "name": "/忙",
+      "aliases": [],
+      "pack": "噗噗星人",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/373_base_1712825561.zip"
+    },
+    {
+      "id": 374,
+      "name": "/波波流泪",
+      "aliases": [],
+      "pack": "噗噗星人",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/374_base_1712825561.zip"
+    },
+    {
+      "id": 375,
+      "name": "/超级鼓掌",
+      "aliases": [],
+      "pack": "噗噗星人",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/375_base_1712825561.zip"
+    },
+    {
+      "id": 376,
+      "name": "/跺脚",
+      "aliases": [],
+      "pack": "企鹅",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/376_base_1712825561.zip"
+    },
+    {
+      "id": 377,
+      "name": "/嗨",
+      "aliases": [],
+      "pack": "企鹅",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/377_base_1712825561.zip"
+    },
+    {
+      "id": 378,
+      "name": "/企鹅笑哭",
+      "aliases": [],
+      "pack": "企鹅",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/378_base_1712825561.zip"
+    },
+    {
+      "id": 379,
+      "name": "/企鹅流泪",
+      "aliases": [],
+      "pack": "企鹅",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/379_base_1712825561.zip"
+    },
+    {
+      "id": 380,
+      "name": "/真棒",
+      "aliases": [],
+      "pack": "企鹅",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/380_base_1712825561.zip"
+    },
+    {
+      "id": 381,
+      "name": "/路过",
+      "aliases": [],
+      "pack": "企鹅",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/381_base_1712825561.zip"
+    },
+    {
+      "id": 382,
+      "name": "/emo",
+      "aliases": [],
+      "pack": "企鹅",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/382_base_1712825561.zip"
+    },
+    {
+      "id": 383,
+      "name": "/企鹅爱心",
+      "aliases": [],
+      "pack": "企鹅",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/383_base_1712825561.zip"
+    },
+    {
+      "id": 384,
+      "name": "/晚安",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/384_base_1712825561.zip"
+    },
+    {
+      "id": 385,
+      "name": "/太气了",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/385_base_1712825561.zip"
+    },
+    {
+      "id": 386,
+      "name": "/呜呜呜",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/386_base_1712825561.zip"
+    },
+    {
+      "id": 387,
+      "name": "/太好笑",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/387_base_1712825561.zip"
+    },
+    {
+      "id": 388,
+      "name": "/太头疼",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/388_base_1712825561.zip"
+    },
+    {
+      "id": 389,
+      "name": "/太赞了",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/389_base_1712825561.zip"
+    },
+    {
+      "id": 390,
+      "name": "/太头秃",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/390_base_1712825561.zip"
+    },
+    {
+      "id": 391,
+      "name": "/太沧桑",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/391_base_1712825561.zip"
+    },
+    {
+      "id": 392,
+      "name": "/龙年快乐",
+      "aliases": [
+        "龙年",
+        "龙年平安",
+        "龙年大吉",
+        "龙年快乐",
+        "龙年好运",
+        "龙年吉祥",
+        "龙年行大运",
+        "龙华富贵"
+      ],
+      "pack": "超级表情",
+      "animation_type": 3,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/392_base_1712825561.zip"
+    },
+    {
+      "id": 393,
+      "name": "/新年中龙",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 3,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/393_base_1712825561.zip"
+    },
+    {
+      "id": 394,
+      "name": "/新年大龙",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 3,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/394_base_1712825561.zip"
+    },
+    {
+      "id": 395,
+      "name": "/略略略",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/395_base_1712825561.zip"
+    },
+    {
+      "id": 396,
+      "name": "/狼狗",
+      "aliases": [],
+      "pack": "汪汪",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/396_base_1712825561.zip"
+    },
+    {
+      "id": 397,
+      "name": "/抛媚眼",
+      "aliases": [],
+      "pack": "汪汪",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/397_base_1712825561.zip"
+    },
+    {
+      "id": 398,
+      "name": "/超级ok",
+      "aliases": [],
+      "pack": "噗噗星人",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/398_base_1712825561.zip"
+    },
+    {
+      "id": 399,
+      "name": "/tui",
+      "aliases": [],
+      "pack": "噗噗星人",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/399_base_1712825561.zip"
+    },
+    {
+      "id": 400,
+      "name": "/快乐",
+      "aliases": [],
+      "pack": "企鹅",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/400_base_1712825561.zip"
+    },
+    {
+      "id": 401,
+      "name": "/超级转圈",
+      "aliases": [],
+      "pack": "企鹅",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/401_base_1712825561.zip"
+    },
+    {
+      "id": 402,
+      "name": "/别说话",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/402_base_1712825561.zip"
+    },
+    {
+      "id": 403,
+      "name": "/出去玩",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/403_base_1712825561.zip"
+    },
+    {
+      "id": 404,
+      "name": "/闪亮登场",
+      "aliases": [],
+      "pack": "喜花妮",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/404_base_1712825561.zip"
+    },
+    {
+      "id": 405,
+      "name": "/好运来",
+      "aliases": [],
+      "pack": "喜花妮",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/405_base_1712825561.zip"
+    },
+    {
+      "id": 406,
+      "name": "/姐是女王",
+      "aliases": [],
+      "pack": "喜花妮",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/406_base_1712825561.zip"
+    },
+    {
+      "id": 407,
+      "name": "/我听听",
+      "aliases": [],
+      "pack": "喜花妮",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/407_base_1712825561.zip"
+    },
+    {
+      "id": 408,
+      "name": "/臭美",
+      "aliases": [],
+      "pack": "喜花妮",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/408_base_1712825561.zip"
+    },
+    {
+      "id": 409,
+      "name": "/送你花花",
+      "aliases": [],
+      "pack": "喜花妮",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/409_base_1712825561.zip"
+    },
+    {
+      "id": 410,
+      "name": "/么么哒",
+      "aliases": [],
+      "pack": "喜花妮",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/410_base_1712825561.zip"
+    },
+    {
+      "id": 411,
+      "name": "/一起嗨",
+      "aliases": [],
+      "pack": "喜花妮",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/411_base_1712825561.zip"
+    },
+    {
+      "id": 412,
+      "name": "/开心",
+      "aliases": [],
+      "pack": "喜花妮",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/412_base_1712825561.zip"
+    },
+    {
+      "id": 413,
+      "name": "/摇起来",
+      "aliases": [],
+      "pack": "喜花妮",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/413_base_1712825561.zip"
+    },
+    {
+      "id": 415,
+      "name": "/划龙舟",
+      "aliases": [
+        "端午",
+        "端午快乐",
+        "端午安康",
+        "粽子"
+      ],
+      "pack": "超级表情",
+      "animation_type": 3,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/415_base_1717502894.zip"
+    },
+    {
+      "id": 416,
+      "name": "/中龙舟",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 3,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/416_base_1717502894.zip"
+    },
+    {
+      "id": 417,
+      "name": "/大龙舟",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 3,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/417_base_1717502894.zip"
+    },
+    {
+      "id": 419,
+      "name": "/火车",
+      "aliases": [
+        "国庆",
+        "国庆快乐"
+      ],
+      "pack": "超级表情",
+      "animation_type": 3,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/419_base_1727061166.zip"
+    },
+    {
+      "id": 420,
+      "name": "/中火车",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 3,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/420_base_1727061166.zip"
+    },
+    {
+      "id": 421,
+      "name": "/大火车",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 3,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/421_base_1727061166.zip"
+    },
+    {
+      "id": 422,
+      "name": "/粽于等到你",
+      "aliases": [],
+      "pack": "隐藏表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/422_base_1725334580.zip"
+    },
+    {
+      "id": 423,
+      "name": "/复兴号",
+      "aliases": [],
+      "pack": "隐藏表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/423_base_1727061166.zip"
+    },
+    {
+      "id": 424,
+      "name": "/续标识",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/424_base_1725960670.zip"
+    },
+    {
+      "id": 425,
+      "name": "/求放过",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/425_base_1725334580.zip"
+    },
+    {
+      "id": 426,
+      "name": "/玩火",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/426_base_1725334580.zip"
+    },
+    {
+      "id": 427,
+      "name": "/偷感",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/427_base_1725334580.zip"
+    },
+    {
+      "id": 428,
+      "name": "/收到",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/428_base_1725334580.zip"
+    },
+    {
+      "id": 429,
+      "name": "/蛇年快乐",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 3,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/429_base_1736835691.zip"
+    },
+    {
+      "id": 430,
+      "name": "/蛇身",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 3,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/430_base_1736835691.zip"
+    },
+    {
+      "id": 431,
+      "name": "/蛇尾",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 3,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/431_base_1736838652.zip"
+    },
+    {
+      "id": 432,
+      "name": "/灵蛇献瑞",
+      "aliases": [],
+      "pack": "隐藏表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/432_base_1736835691.zip"
+    },
+    {
+      "id": 450,
+      "name": "/撇嘴",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/450_base_1755829391.zip"
+    },
+    {
+      "id": 451,
+      "name": "/色",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/451_base_1755829391.zip"
+    },
+    {
+      "id": 452,
+      "name": "/微笑",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/452_base_1755829391.zip"
+    },
+    {
+      "id": 453,
+      "name": "/发呆",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/453_base_1755829391.zip"
+    },
+    {
+      "id": 454,
+      "name": "/得意",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/454_base_1755829391.zip"
+    },
+    {
+      "id": 455,
+      "name": "/害羞",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/455_base_1755829391.zip"
+    },
+    {
+      "id": 456,
+      "name": "/闭嘴",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/456_base_1755829391.zip"
+    },
+    {
+      "id": 457,
+      "name": "/睡",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/457_base_1755829391.zip"
+    },
+    {
+      "id": 458,
+      "name": "/我吗",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/458_base_1755829391.zip"
+    },
+    {
+      "id": 459,
+      "name": "/优雅",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/459_base_1755829391.zip"
+    },
+    {
+      "id": 460,
+      "name": "/硬撑",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/460_base_1755829391.zip"
+    },
+    {
+      "id": 461,
+      "name": "/宕机",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/461_base_1755829391.zip"
+    },
+    {
+      "id": 462,
+      "name": "/无语",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/462_base_1755829391.zip"
+    },
+    {
+      "id": 463,
+      "name": "/新年快乐",
+      "aliases": [
+        "新年快乐",
+        "新年",
+        "春节",
+        "新春",
+        "春节快乐",
+        "过年",
+        "恭喜发财"
+      ],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/463_base_1770110940.zip"
+    },
+    {
+      "id": 464,
+      "name": "/马上到",
+      "aliases": [
+        "马上到",
+        "马上来",
+        "马年",
+        "马到成功",
+        "开车",
+        "开跑车",
+        "跑车",
+        "马上"
+      ],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/464_base_1770110858.zip"
+    },
+    {
+      "id": 465,
+      "name": "/拆红包",
+      "aliases": [
+        "拆红包",
+        "大红包",
+        "红包",
+        "大气",
+        "大方"
+      ],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/465_base_1770260458.zip"
+    },
+    {
+      "id": 466,
+      "name": "/羞羞哒",
+      "aliases": [
+        "羞羞哒",
+        "害羞",
+        "羞涩",
+        "羞羞",
+        "坏笑"
+      ],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/466_base_1770110858.zip"
+    },
+    {
+      "id": 467,
+      "name": "/摇花手",
+      "aliases": [
+        "摇花手",
+        "杀马特",
+        "非主流",
+        "摇子",
+        "跳舞",
+        "社会摇"
+      ],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/467_base_1770110940.zip"
+    },
+    {
+      "id": 468,
+      "name": "/失眠",
+      "aliases": [
+        "睡不着",
+        "失眠",
+        "辗转反侧",
+        "夜不能寐",
+        "睡眠障碍",
+        "神经衰弱",
+        "睡眠差"
+      ],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/468_base_1770110858.zip"
+    },
+    {
+      "id": 469,
+      "name": "/坚毅",
+      "aliases": [
+        "坚毅",
+        "西格玛",
+        "下颌线"
+      ],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/469_base_1770110858.zip"
+    },
+    {
+      "id": 470,
+      "name": "/马到成功",
+      "aliases": [],
+      "pack": "小黄脸表情",
+      "animation_type": 0,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/470_base_1770110858.zip"
+    },
+    {
+      "id": 472,
+      "name": "/心动",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/472_base_1778739853.zip"
+    },
+    {
+      "id": 474,
+      "name": "/给你一拳",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/474_base_1781239647.zip"
+    },
+    {
+      "id": 475,
+      "name": "/干饭",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/475_base_1781494455.zip"
+    },
+    {
+      "id": 476,
+      "name": "/不是吧",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/476_base_1781494455.zip"
+    },
+    {
+      "id": 477,
+      "name": "/你懂的",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/477_base_1781494455.zip"
+    },
+    {
+      "id": 478,
+      "name": "/对的对的",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/478_base_1781494455.zip"
+    },
+    {
+      "id": 479,
+      "name": "/不对不对",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/479_base_1781494455.zip"
+    },
+    {
+      "id": 480,
+      "name": "/散味儿",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/480_base_1782964748.zip"
+    },
+    {
+      "id": 481,
+      "name": "/学习",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/481_base_1782964748.zip"
+    },
+    {
+      "id": 482,
+      "name": "/热化了",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/482_base_1782964748.zip"
+    },
+    {
+      "id": 483,
+      "name": "/略",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/483_base_1782964748.zip"
+    },
+    {
+      "id": 484,
+      "name": "/比爱心",
+      "aliases": [],
+      "pack": "超级表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/484_base_1782964748.zip"
+    },
+    {
+      "id": 488,
+      "name": "/开学大吉",
+      "aliases": [],
+      "pack": "隐藏表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/488_base_1787730114.zip"
+    },
+    {
+      "id": 494,
+      "name": "/举杯邀月",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/494_base_1789715609.zip"
+    },
+    {
+      "id": 495,
+      "name": "/兔来",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/495_base_1789715609.zip"
+    },
+    {
+      "id": 496,
+      "name": "/阴晴圆缺",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/496_base_1789715609.zip"
+    },
+    {
+      "id": 497,
+      "name": "/休假了",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/497_base_1789715609.zip"
+    },
+    {
+      "id": 498,
+      "name": "/中!",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/498_base_1789715609.zip"
+    },
+    {
+      "id": 499,
+      "name": "/观月C位",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/499_base_1789715609.zip"
+    },
+    {
+      "id": 500,
+      "name": "/秋秋赏月",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 3,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/500_base_1789715609.zip"
+    },
+    {
+      "id": 501,
+      "name": "/秋秋之约",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 3,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/501_base_1789715609.zip"
+    },
+    {
+      "id": 502,
+      "name": "/秋秋泛舟",
+      "aliases": [],
+      "pack": "QQ黄脸",
+      "animation_type": 3,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/502_base_1789715609.zip"
+    },
+    {
+      "id": 503,
+      "name": "/秋愿达成",
+      "aliases": [],
+      "pack": "隐藏表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/503_base_1789715609.zip"
+    },
+    {
+      "id": 515,
+      "name": "/王者再战",
+      "aliases": [],
+      "pack": "隐藏表情",
+      "animation_type": 1,
+      "resource_url": "https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/515_base_1792047759.zip"
+    }
+  ]
+}
