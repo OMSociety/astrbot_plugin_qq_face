@@ -5,7 +5,6 @@ from __future__ import annotations
 import asyncio
 import hashlib
 import json
-import logging
 import os
 import tempfile
 import time
@@ -14,9 +13,9 @@ from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any
 
-from .models import FaceCatalog
+from astrbot.api import logger
 
-logger = logging.getLogger(__name__)
+from .models import FaceCatalog
 
 
 @dataclass(slots=True)

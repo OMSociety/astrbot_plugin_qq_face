@@ -7,11 +7,12 @@ AstrBot platform instance and can be overridden explicitly in plugin settings.
 from __future__ import annotations
 
 import asyncio
-import logging
 import time
 from collections.abc import Mapping
 from dataclasses import dataclass
 from typing import Any
+
+from astrbot.api import logger
 
 _DENIED_APP_MARKERS = ("flandora", "wechat", "weixin")
 _KNOWN_QQ_APP_MARKERS = (
@@ -22,8 +23,6 @@ _KNOWN_QQ_APP_MARKERS = (
     "go-cqhttp",
     "gocqhttp",
 )
-
-logger = logging.getLogger(__name__)
 
 
 @dataclass(frozen=True, slots=True)
